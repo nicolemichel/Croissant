@@ -24,6 +24,10 @@ li {
   padding: 20px;
 }
 
+li:first-child {
+    padding-left: 0;
+}
+
 a {
   font-size: 22px;
   text-decoration: none;
@@ -48,5 +52,5 @@ img {
 }
 
 img:first-child {
-    margin-right: 6%;
+    margin-left: 4%;
 }
