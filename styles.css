@@ -1,0 +1,52 @@
+body {
+  background: #e1d6cc;
+  color: #342C2D;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 5%;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 20px;
+}
+
+a {
+  font-size: 22px;
+  text-decoration: none;
+  color: #9E793B;
+  margin: 0 auto;
+}
+
+a:hover {
+    color: #342C2D;
+}
+
+.img-holder {
+    text-align: center;
+}
+
+img {
+  display: inline-block;
+  border-radius: 5px;
+  max-width: 30%;
+  margin: 3%;
+  box-shadow: 3px 5px 5px #342C2D;
+}
+
+img:first-child {
+    margin-right: 6%;
+}
